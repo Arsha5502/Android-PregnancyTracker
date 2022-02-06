@@ -1,7 +1,13 @@
 
-Project Name: PREGNANCY TRACKER
+Name: PREGNANCY TRACKER
+Team:ExID
+Members:
+Hanna Antony
+Annapoornna P
+Akshay K
+Arsha M Joby
 
-Project Description:-
+Description:-
  
 This app is targeted for pregnant ladies, helps to keep track of their progress day by day and manage their pregnancy related things.
 
@@ -15,5 +21,3 @@ Keep contacts of doctors to Manage doctor appointment and make phone call
 General Symptoms manual
 General Test/scan/checks manual
 
-Note:-
-App uses database to save datas. Database tables are pre-created and saved in assets folder
